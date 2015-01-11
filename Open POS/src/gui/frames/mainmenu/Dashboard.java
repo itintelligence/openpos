@@ -105,6 +105,9 @@ public class Dashboard extends javax.swing.JFrame {
 
     // use custom cell renderer
     dashMenu.setCellRenderer(mtcr);
+
+    // expand node with a single click
+    dashMenu.setToggleClickCount(1);
     dashMenu.setBorder(javax.swing.BorderFactory.createEmptyBorder(6, 6, 0, 0));
     dashMenu.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
     dashMenu.setForeground(new java.awt.Color(255, 255, 255));
