@@ -18,7 +18,9 @@ Changelog
 	+ `src\classes\gui\mainmenu\MenuTreeCellRenderer.java`
 	+ `src\gui\frames\mainmenu\Dashboard.form`
 	+ `src\gui\frames\mainmenu\Dashboard.java`
-Bug Reports:
+
+**Bug Reports:**
+
 + No scrollbar for dashboard menu bar, can not see last few elements of the menu when all menu nodes expanded
 
 [ **Commit:** a6154e6960 | **Date:** Sun, Jan 25 2015 ]
